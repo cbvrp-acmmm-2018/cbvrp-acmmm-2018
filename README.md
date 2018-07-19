@@ -48,18 +48,18 @@ The participants should prepare a csv file for testing set (please refer to prov
 
 ## Schedule
 
-April 2nd: Registration open.
-April 20th: Challenge data available.
-July 1st: Deadline for results submission.
-July 8th: Deadline for paper submission (Optional, for more details, please refer to “Submissions” on http://www.acmmm.org/2018/multimedia-grand-challenge/).
-August 5th: Notification of winners and paper acceptance.
+April 2nd: Registration open.\
+April 20th: Challenge data available.\
+July 1st: Deadline for results submission.\
+July 8th: Deadline for paper submission (Optional, for more details, please refer to “Submissions” on http://www.acmmm.org/2018/multimedia-grand-challenge/).\
+August 5th: Notification of winners and paper acceptance.\
 August 31st: Winners submit the tech report and source code.
 
 ## Organizers
 
-Mengyi Liu (mengyi.liu2012@gmail.com)
-Peng Wang (peng.wang@hulu.com) Hulu LLC.
-Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.
+Mengyi Liu (mengyi.liu2012@gmail.com)\
+Peng Wang (peng.wang@hulu.com) Hulu LLC.\
+Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.\
 Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
 ## Prizes
