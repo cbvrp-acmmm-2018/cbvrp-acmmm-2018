@@ -26,4 +26,48 @@ The proposed methods will be evaluated based on recall rate regarding to top K p
 If you use the CBVRP dataset in your work, please cite it as
 
 Mengyi Liu, Xiaohui Xie, Hanning Zhou. "Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline". arXiv preprint arXiv:1806.00737. 2018.
-"README.md" 73L, 4951C
+
+The full paper is available from https://arxiv.org/pdf/1806.00737.pdf
+
+BibTex:
+
+@misc{cbvrp-acmmm-2018,
+  title={Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline.},
+  author={Liu, Mengyi and Xie, Xiaohui and Zhou, Hanning},
+  journal={arXiv preprint arXiv:1806.00737},
+  year={2018}
+}
+
+## Registration
+
+To register for the challenge and get access to the dataset, please complete the [Online Agreement Form](https://freeonlinesurveys.com/s/lDBaYlvA). We will send you the download instructions by email after the challenge data available date (Apr. 20th, 2018).
+
+## Submission
+
+The participants should prepare a csv file for testing set (please refer to provided evaluation example to see the format of the submission file) and send the csv file to cbvrp-acmmm-2018@hulu.com. After receiving the submission csv file, we will evaluate the results and send back to the participants by email no later than July 1st.
+
+## Schedule
+
+April 2nd: Registration open.
+April 20th: Challenge data available.
+July 1st: Deadline for results submission.
+July 8th: Deadline for paper submission (Optional, for more details, please refer to “Submissions” on http://www.acmmm.org/2018/multimedia-grand-challenge/).
+August 5th: Notification of winners and paper acceptance.
+August 31st: Winners submit the tech report and source code.
+
+## Organizers
+
+Mengyi Liu (mengyi.liu2012@gmail.com)
+Peng Wang (peng.wang@hulu.com) Hulu LLC.
+Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.
+Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
+
+## Prizes
+
+The total reward is $2,000 USD including the taxable amount, which will be fully sponsored by Hulu LLC. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
+
+The winners of the challenge are required to provide a technique report describing the details of the winning algorithms, and provide the source code to the organizers. The organizers will also run the released the code to test the reproducibility of the winner algorithms. The winners will give a presentation during the conference.
+
+## Contact
+
+If you have any question, please send email to cbvrp-acmmm-2018@hulu.com.
