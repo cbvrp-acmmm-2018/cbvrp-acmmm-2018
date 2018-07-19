@@ -62,6 +62,16 @@ Peng Wang (peng.wang@hulu.com) Hulu LLC.\
 Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.\
 Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
+## Learderboard
+
+#### Track 1: TV-shows 
+
+|        |     Team      | Recall@100  |
+| ------ |:-------------:| -----:|
+|   1    | USTC_I_Know_U | 0.186955901351 |
+|   2    | centered      |   $12 |
+|   3    | are neat      |    $1 |
+
 ## Prizes
 
 The total reward is $2,000 USD including the taxable amount, which will be fully sponsored by Hulu LLC. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
