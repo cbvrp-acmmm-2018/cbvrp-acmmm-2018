@@ -51,7 +51,7 @@ The participants should prepare a csv file for testing set (please refer to prov
 April 2nd: Registration open.\
 April 20th: Challenge data available.\
 July 1st: Deadline for results submission.\
-July 8th: Deadline for paper submission (Optional, for more details, please refer to “Submissions” on http://www.acmmm.org/2018/multimedia-grand-challenge/).\
+July 8th: Deadline for paper submission (Optional, for more details, please refer to “Submissions” on http://www.acmmm.org/2018/multimedia-grand-challenge/). \
 August 5th: Notification of winners and paper acceptance.\
 August 31st: Winners submit the tech report and source code.
 
