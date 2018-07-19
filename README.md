@@ -57,7 +57,6 @@ August 31st: Winners submit the tech report and source code.
 
 ## Organizers
 
-Mengyi Liu (mengyi.liu2012@gmail.com)\
 Peng Wang (peng.wang@hulu.com) Hulu LLC.\
 Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.\
 Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
@@ -95,7 +94,7 @@ Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
 ## Prizes
 
-The total reward is $2,000 USD including the taxable amount, which will be fully sponsored by Hulu LLC. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
+The total reward is $2,000 USD for each track including the taxable amount, which will be fully sponsored by Hulu LLC. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
 
 The winners of the challenge are required to provide a technique report describing the details of the winning algorithms, and provide the source code to the organizers. The organizers will also run the released the code to test the reproducibility of the winner algorithms. The winners will give a presentation during the conference.
 
