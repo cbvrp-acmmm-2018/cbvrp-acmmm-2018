@@ -66,11 +66,32 @@ Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
 #### Track 1: TV-shows 
 
-|        |     Team      | Recall@100  |
-| ------ |:-------------:| -----:|
-|   1    | USTC_I_Know_U | 0.186955901351 |
-|   2    | centered      |   $12 |
-|   3    | are neat      |    $1 |
+|        |     Team           |   Recall@100   |
+| ------ |:------------------:|:--------------:|
+|   1    | USTC_I_Know_U      | 0.186955901351 |
+|   2    | Jianfeng Dong      | 0.178239889102 |
+|   3    | Zhikun Lin         | 0.130889878206 |
+|   4    | zhao kun           | 0.126281363656 |
+|   5    | Jiguo Li           | 0.11980215084  |
+|   6    | MIDAS              | 0.11742731329  |
+|   7    | Yash Sanjay Bhalgat| 0.11289992799  |
+|   8    | Sheng Li           | 0.109182579786 |
+|   9    | Dhumketu           | 0.074798633568 |
+
+
+#### Track 2: Movies
+
+|        |     Team           |   Recall@100   |
+| ------ |:------------------:|:--------------:|
+|   1    | Jianfeng Dong      | 0.151050683793 |
+|   2    | USTC_I_Know_U      | 0.147163330488 |
+|   3    | Zhikun Lin         | 0.103173063529 |
+|   4    | zhao kun           | 0.100695875919 |
+|   5    | MIDAS              | 0.098817118248 |
+|   6    | Yash Sanjay Bhalgat| 0.096555415480 |
+|   7    | Sheng Li           | 0.082584524879 |
+|   8    | Dhumketu           | 0.044701797160 |
+
 
 ## Prizes
 
