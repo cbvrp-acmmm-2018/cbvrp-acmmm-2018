@@ -68,8 +68,8 @@ Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 |        |     Team           |   Recall@100   |
 | ------ |:------------------:|:--------------:|
 |   1    | USTC_I_Know_U      | 0.186955901351 |
-|   2    | Jianfeng Dong      | 0.178239889102 |
-|   3    | Zhikun Lin         | 0.130889878206 |
+|   2    | ZJGSU_RUC          | 0.178239889102 |
+|   3    | UESTC_edbigdata    | 0.130889878206 |
 |   4    | zhao kun           | 0.126281363656 |
 |   5    | Jiguo Li           | 0.11980215084  |
 |   6    | MIDAS              | 0.11742731329  |
@@ -82,9 +82,9 @@ Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
 |        |     Team           |   Recall@100   |
 | ------ |:------------------:|:--------------:|
-|   1    | Jianfeng Dong      | 0.151050683793 |
+|   1    | ZJGSU_RUC          | 0.151050683793 |
 |   2    | USTC_I_Know_U      | 0.147163330488 |
-|   3    | Zhikun Lin         | 0.103173063529 |
+|   3    | UESTC_edbigdata    | 0.103173063529 |
 |   4    | zhao kun           | 0.100695875919 |
 |   5    | MIDAS              | 0.098817118248 |
 |   6    | Yash Sanjay Bhalgat| 0.096555415480 |
